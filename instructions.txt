@@ -1,0 +1,9 @@
+This repository contains 4 python programms.
+The single player files are divided into three categories by their difficulty levels. 
+The easy file is implemented using normal algorithm based on simple strategy to play the game(i.e., to counter the opponent).
+The medium file is implemented using minimax algorithm and in this game the first turn will be player's turn and in this game it is difficult to defeat
+the computer. 
+The hard file is also implemented using minimax algorithm and in this game the first turn will be computer's turn and in this game it is impossible to defeat 
+the computer.
+
+All lines in all files are self explainatory. Run any file to play according the game.
