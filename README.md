@@ -11,9 +11,12 @@ Upon running any program, the game will be displayed in output console, the move
 
 Here is the screenshot of ouput console when starting the game.
 
-SS
+<img width="140" alt="Screenshot 2023-04-06 at 1 25 43 PM" src="https://user-images.githubusercontent.com/76246981/230337236-12b7384e-7af7-4654-9bec-dbc5eca0b8a6.png">
+
 
 Here is the video of 'hard' single player game.
+
+https://user-images.githubusercontent.com/76246981/230337320-1c4bc982-05bc-4bca-8536-9a1ba12ad6fc.mov
 
 # Prerequisits
 `Python==3.6`
